@@ -1,0 +1,6 @@
+[package]
+name = "rust-up"
+version = "0.1.0"
+authors = ["wk-j <somnuk.wk@gmail.com>"]
+
+[dependencies]

@@ -17,8 +17,8 @@ impl fmt::Display for Point2D {
     }
 }
 
-impl fmt::Display for Structure { 
-    fn fmt(&self, f:&mut fmt::Formatter) -> fmt::Result { 
+impl fmt::Display for Structure {
+    fn fmt(&self, f: &mut fmt::Formatter) -> fmt::Result {
         write!(f, "{}", self.0)
     }
 }

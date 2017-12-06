@@ -8,4 +8,6 @@ fn main() {
     let pair = (1, true);
     let rev = reverse(pair);
     println!("{:?}", rev);
+    
+    ar x s0ss;
 }
